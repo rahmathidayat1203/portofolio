@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(230, 230, 230);
+}
+.avatar {
+  margin-top: 1rem;
+  width: 200px;
+}
+
+.logo {
+  width: 50px;
+}
+/* .navbar-brand{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 24px;
+} */
+.name {
+  margin-top: 1rem;
+}
+
+#logs {
+  background-color: rgb(230, 230, 230);
+}
+.social-media {
+  color: rgb(8, 8, 8);
+  text-decoration: none;
+}
+footer {
+  background-color: rgb(207, 204, 204);
+}
